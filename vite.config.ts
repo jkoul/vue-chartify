@@ -16,6 +16,8 @@ export default defineConfig({
     alias: {
       '@': path.resolve(pathSegments, './src'),
       '@aqua': path.resolve(pathSegments, './aqua'),
+      '@chartlib': path.resolve(pathSegments, './src/core/chart'),
+      '@utils': path.resolve(pathSegments, './src/core/utilities'),
     },
   },
   css: {
