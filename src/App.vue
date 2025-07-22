@@ -11,9 +11,7 @@
   </AquaLayout>
 </template>
 
-<script setup lang="ts">
-import { RouterView } from 'vue-router'
-</script>
+<script setup lang="ts"></script>
 
 <style scoped lang="scss">
 .app-content {
@@ -21,6 +19,10 @@ import { RouterView } from 'vue-router'
 
   .main-content-container {
     height: 100%;
+  }
+
+  h1 {
+    color: $aqua-color-primary-700;
   }
 }
 </style>
