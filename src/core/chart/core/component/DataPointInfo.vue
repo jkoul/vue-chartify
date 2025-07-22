@@ -21,7 +21,6 @@ import type { PropType } from 'vue'
 
 import { defineComponent } from 'vue'
 
-import { getColor } from '@core/service/mixins/aquaColors'
 import { formatNumber } from '@utils/numberFormat'
 
 export default defineComponent({
@@ -42,12 +41,11 @@ export default defineComponent({
   },
   computed: {
     color() {
-      return this.item.color ?? this.getColor('aquaColorVividBlue')
+      return this.item.color ?? this.$getAquaColor('VividBlue')
     },
   },
   methods: {
     formatNumber,
-    getColor,
   },
 })
 </script>

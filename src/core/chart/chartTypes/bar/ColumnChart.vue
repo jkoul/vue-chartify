@@ -464,8 +464,8 @@ export default defineComponent({
       const color =
         this.grouped || this.stacked
           ? (this.itemColors.find((item) => item.label === this.getColorProp(stat))?.color ??
-            this.getAquaColor('aquaColorBlack'))
-          : this.getAquaColor('aquaColorVividBlue') // TODO: perhaps update to use the first color in the palette instead?
+            this.$getAquaColor('Black'))
+          : this.$getAquaColor('VividBlue') // TODO: perhaps update to use the first color in the palette instead?
 
       // if bar shrunk to max bar width (see Math.min above), move it to the center of its band
       if (bandwidth > this.maxBandWidth) {

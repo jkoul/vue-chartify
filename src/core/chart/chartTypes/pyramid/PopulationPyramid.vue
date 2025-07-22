@@ -170,13 +170,13 @@ export default defineComponent({
       sexCategories: this.categories ?? [
         {
           label: 'Male',
-          color: this.getAquaColor('aquaColorRobin200'),
-          highlightColor: this.getAquaColor('aquaColorRobin400'),
+          color: this.$getAquaColor('Robin200'),
+          highlightColor: this.$getAquaColor('Robin400'),
         },
         {
           label: 'Female',
-          color: this.getAquaColor('aquaColorGold600'),
-          highlightColor: this.getAquaColor('aquaColorGold800'),
+          color: this.$getAquaColor('Gold600'),
+          highlightColor: this.getAquaColor('Gold800'),
         },
       ],
     }

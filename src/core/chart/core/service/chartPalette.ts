@@ -2,7 +2,7 @@ import { schemeCategory10 } from 'd3-scale-chromatic'
 
 import { getAquaColor } from '@aqua/service/getAquaColor'
 
-const defaultBlue = getAquaColor('aquaColorVividBlue')
+const defaultBlue = getAquaColor('VividBlue')
 
 export const Palette = [defaultBlue, ...schemeCategory10.slice(1)]
 

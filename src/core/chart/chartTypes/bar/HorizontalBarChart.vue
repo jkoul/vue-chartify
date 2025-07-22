@@ -316,8 +316,8 @@ export default defineComponent({
       const color =
         this.categories && (this.grouped || this.stacked)
           ? (this.categories.find((cat) => cat.label === this.getColorProp(stat))?.color ??
-            this.getAquaColor('aquaColorBlack'))
-          : this.getAquaColor('aquaColorVividBlue')
+            this.$getAquaColor('Black'))
+          : this.$getAquaColor('VividBlue')
 
       return {
         ...stat,

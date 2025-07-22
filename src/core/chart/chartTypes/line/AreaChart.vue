@@ -110,7 +110,7 @@ export default defineComponent({
     },
     areaColor: {
       type: String,
-      default: getAquaColor('aquaColorVividBlue'),
+      default: getAquaColor('VividBlue'),
     },
   },
   data(): AreaChartData {
