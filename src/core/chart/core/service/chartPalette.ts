@@ -1,8 +1,8 @@
 import { schemeCategory10 } from 'd3-scale-chromatic'
 
-import { getColor } from '@core/service/mixins/aquaColors'
+import { getAquaColor } from '@aqua/service/getAquaColor'
 
-const defaultBlue = getColor('aquaColorVividBlue')
+const defaultBlue = getAquaColor('aquaColorVividBlue')
 
 export const Palette = [defaultBlue, ...schemeCategory10.slice(1)]
 
@@ -106,7 +106,7 @@ export const XLPalette = Object.freeze([
   '#616d54',
   '#ddac8a',
   '#876936',
-  '#96852f'
+  '#96852f',
 ] as const)
 
 /**

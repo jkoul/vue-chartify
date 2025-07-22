@@ -144,9 +144,8 @@ import { getValueDomain, isDiverging } from '@chartlib/chartTypes/bar/service/sc
 import ChartBase from '@chartlib/core/component/ChartBase.vue'
 import ChartXAxis from '@chartlib/core/component/ChartXAxis.vue'
 import ChartYAxis from '@chartlib/core/component/ChartYAxis.vue'
-import { Palette } from '@chartlib/service/chartPalette'
-import { columnChart as d3 } from '@chartlib/service/d3Bundles'
-import { getColor } from '@core/service/mixins/aquaColors'
+import { Palette } from '@chartlib/core/service/chartPalette'
+import { columnChart as d3 } from '@chartlib/core/service/d3Bundles'
 import { formatNumber } from '@utils/numberFormat'
 import { determineDatasetDecimalPrecision, roundToPrecision } from '@utils/numberUtilities'
 
@@ -465,8 +464,8 @@ export default defineComponent({
       const color =
         this.grouped || this.stacked
           ? (this.itemColors.find((item) => item.label === this.getColorProp(stat))?.color ??
-            getColor('aquaColorBlack'))
-          : getColor('aquaColorVividBlue') // TODO: perhaps update to use the first color in the palette instead?
+            this.getAquaColor('aquaColorBlack'))
+          : this.getAquaColor('aquaColorVividBlue') // TODO: perhaps update to use the first color in the palette instead?
 
       // if bar shrunk to max bar width (see Math.min above), move it to the center of its band
       if (bandwidth > this.maxBandWidth) {

@@ -104,8 +104,7 @@ import { defineComponent } from 'vue'
 import { getValueDomain, isDiverging } from '@chartlib/chartTypes/bar/service/scaleHelpers'
 import ChartBase from '@chartlib/core/component/ChartBase.vue'
 import ChartXAxis from '@chartlib/core/component/ChartXAxis.vue'
-import { horizontalBarChart as d3 } from '@chartlib/service/d3Bundles'
-import { getColor } from '@core/service/mixins/aquaColors'
+import { horizontalBarChart as d3 } from '@chartlib/core/service/d3Bundles'
 import { formatNumber } from '@utils/numberFormat'
 import { determineDatasetDecimalPrecision, roundToPrecision } from '@utils/numberUtilities'
 
@@ -317,8 +316,8 @@ export default defineComponent({
       const color =
         this.categories && (this.grouped || this.stacked)
           ? (this.categories.find((cat) => cat.label === this.getColorProp(stat))?.color ??
-            getColor('aquaColorBlack'))
-          : getColor('aquaColorVividBlue')
+            this.getAquaColor('aquaColorBlack'))
+          : this.getAquaColor('aquaColorVividBlue')
 
       return {
         ...stat,

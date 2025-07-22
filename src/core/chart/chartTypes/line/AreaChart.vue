@@ -56,12 +56,12 @@ import type { PropType } from 'vue'
 
 import { defineComponent } from 'vue'
 
+import { getAquaColor } from '@aqua/service/getAquaColor'
 import { recessionDates } from '@chartlib/chartTypes/line/service/recessionsList'
 import ChartBase from '@chartlib/core/component/ChartBase.vue'
 import ChartXAxis from '@chartlib/core/component/ChartXAxis.vue'
 import ChartYAxis from '@chartlib/core/component/ChartYAxis.vue'
-import { areaChart as d3 } from '@chartlib/service/d3Bundles'
-import { getColor } from '@core/service/mixins/aquaColors'
+import { areaChart as d3 } from '@chartlib/core/service/d3Bundles'
 import {
   addIncrementToDate,
   computeTimeIncrement,
@@ -110,7 +110,7 @@ export default defineComponent({
     },
     areaColor: {
       type: String,
-      default: getColor('aquaColorVividBlue'),
+      default: getAquaColor('aquaColorVividBlue'),
     },
   },
   data(): AreaChartData {

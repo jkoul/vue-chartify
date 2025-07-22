@@ -110,8 +110,7 @@ import { defineComponent } from 'vue'
 import ChartBase from '@chartlib/core/component/ChartBase.vue'
 import ChartXAxis from '@chartlib/core/component/ChartXAxis.vue'
 import ChartYAxis from '@chartlib/core/component/ChartYAxis.vue'
-import { horizontalBarChart as d3 } from '@chartlib/service/d3Bundles'
-import { getColor } from '@core/service/mixins/aquaColors'
+import { horizontalBarChart as d3 } from '@chartlib/core/service/d3Bundles'
 import { formatNumber } from '@utils/numberFormat'
 
 interface PopPyramidData {
@@ -171,13 +170,13 @@ export default defineComponent({
       sexCategories: this.categories ?? [
         {
           label: 'Male',
-          color: getColor('aquaColorRobin200'),
-          highlightColor: getColor('aquaColorRobin400'),
+          color: this.getAquaColor('aquaColorRobin200'),
+          highlightColor: this.getAquaColor('aquaColorRobin400'),
         },
         {
           label: 'Female',
-          color: getColor('aquaColorGold600'),
-          highlightColor: getColor('aquaColorGold800'),
+          color: this.getAquaColor('aquaColorGold600'),
+          highlightColor: this.getAquaColor('aquaColorGold800'),
         },
       ],
     }

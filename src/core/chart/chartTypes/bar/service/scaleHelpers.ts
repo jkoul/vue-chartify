@@ -1,4 +1,4 @@
-import { getContinuousDomain } from '@chartlib/service/scaleHelpers'
+import { getContinuousDomain } from '@chartlib/core/service/scaleHelpers'
 
 /* Compute line chart scale domains from data */
 

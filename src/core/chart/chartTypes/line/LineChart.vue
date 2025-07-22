@@ -4,7 +4,7 @@
       <slot name="lineChartData">
         <g
           v-for="group in chartItems"
-          :id="'line_' + stringToID(group.label ?? '')"
+          :id="'line_' + stringToElementID(group.label ?? '')"
           :key="group.label"
           @mouseover="onLineHover($event, group)"
         >
@@ -58,7 +58,7 @@
           </slot>
         </g>
         <!-- if multiple lines, ensure the "active" one is up front -->
-        <use v-if="activeLineCategory" :href="'#line_' + stringToID(activeLineCategory)" />
+        <use v-if="activeLineCategory" :href="'#line_' + stringToElementID(activeLineCategory)" />
       </slot>
 
       <foreignObject v-if="animate && showAnimation" class="scrim"> </foreignObject>
@@ -125,9 +125,9 @@ import { recessionDates } from '@chartlib/chartTypes/line/service/recessionsList
 import ChartBase from '@chartlib/core/component/ChartBase.vue'
 import ChartXAxis from '@chartlib/core/component/ChartXAxis.vue'
 import ChartYAxis from '@chartlib/core/component/ChartYAxis.vue'
-import { Palette, XLPalette } from '@chartlib/service/chartPalette'
-import { lineChart as d3 } from '@chartlib/service/d3Bundles'
-import { stringToID } from '@core/service/mixins/generateElementID'
+import { Palette, XLPalette } from '@chartlib/core/service/chartPalette'
+import { lineChart as d3 } from '@chartlib/core/service/d3Bundles'
+import { stringToElementID } from '@/core/utilities/helpers'
 import {
   addIncrementToDate,
   areDatesConsecutive,
@@ -390,7 +390,7 @@ export default defineComponent({
   },
   methods: {
     formatNumber,
-    stringToID,
+    stringToElementID,
     /**
      * Adds filler data values if there is a jump in the time scale.
      *
