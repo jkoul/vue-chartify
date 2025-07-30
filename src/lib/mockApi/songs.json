@@ -1,0 +1,3301 @@
+﻿[
+  {
+    "id": 1,
+    "title": "I Saw Her Standing There",
+    "albumId": 1,
+    "albumTitle": "Please Please Me",
+    "year": "1963",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 173,
+    "ukChartPeak": 90,
+    "ukChartWeeks": 1,
+    "usChartPeak": 14,
+    "usChartWeeks": 11
+  },
+  {
+    "id": 2,
+    "title": "Misery",
+    "albumId": 1,
+    "albumTitle": "Please Please Me",
+    "year": "1963",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [
+      "Paul McCartney"
+    ],
+    "theme": [],
+    "length": 108,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 3,
+    "title": "Anna (Go to Him)",
+    "albumId": 1,
+    "albumTitle": "Please Please Me",
+    "year": "1963",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 177,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 4,
+    "title": "Chains",
+    "albumId": 1,
+    "albumTitle": "Please Please Me",
+    "year": "1963",
+    "vocalsLead": [
+      "George Harrison"
+    ],
+    "vocalsBackup": [
+      "John Lennon",
+      "Paul McCartney"
+    ],
+    "theme": [],
+    "length": 145,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 5,
+    "title": "Boys",
+    "albumId": 1,
+    "albumTitle": "Please Please Me",
+    "year": "1963",
+    "vocalsLead": [
+      "Ringo Starr"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 146,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 6,
+    "title": "Ask Me Why",
+    "albumId": 1,
+    "albumTitle": "Please Please Me",
+    "year": "1963",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 146,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 7,
+    "title": "Please Please Me",
+    "albumId": 1,
+    "albumTitle": "Please Please Me",
+    "year": "1963",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [
+      "Paul McCartney"
+    ],
+    "theme": [],
+    "length": 120,
+    "ukChartPeak": 2,
+    "ukChartWeeks": 18,
+    "usChartPeak": 3,
+    "usChartWeeks": 13
+  },
+  {
+    "id": 8,
+    "title": "Love Me Do",
+    "albumId": 1,
+    "albumTitle": "Please Please Me",
+    "year": "1963",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [
+      "John Lennon"
+    ],
+    "theme": [
+      "love"
+    ],
+    "length": 141,
+    "ukChartPeak": 17,
+    "ukChartWeeks": 18,
+    "usChartPeak": 1,
+    "usChartWeeks": 14
+  },
+  {
+    "id": 9,
+    "title": "P.S. I Love You",
+    "albumId": 1,
+    "albumTitle": "Please Please Me",
+    "year": "1963",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [
+      "love"
+    ],
+    "length": 124,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": 10,
+    "usChartWeeks": 8
+  },
+  {
+    "id": 10,
+    "title": "Baby It's You",
+    "albumId": 1,
+    "albumTitle": "Please Please Me",
+    "year": "1963",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 160,
+    "ukChartPeak": 7,
+    "ukChartWeeks": 14,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 11,
+    "title": "Do You Want to Know a Secret",
+    "albumId": 1,
+    "albumTitle": "Please Please Me",
+    "year": "1963",
+    "vocalsLead": [
+      "George Harrison"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 117,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 12,
+    "title": "A Taste Of Honey",
+    "albumId": 1,
+    "albumTitle": "Please Please Me",
+    "year": "1963",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 123,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 13,
+    "title": "There's a Place",
+    "albumId": 1,
+    "albumTitle": "Please Please Me",
+    "year": "1963",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [
+      "Paul McCartney"
+    ],
+    "theme": [],
+    "length": 110,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 14,
+    "title": "Twist And Shout",
+    "albumId": 1,
+    "albumTitle": "Please Please Me",
+    "year": "1963",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 155,
+    "ukChartPeak": 48,
+    "ukChartWeeks": 2,
+    "usChartPeak": 2,
+    "usChartWeeks": 26
+  },
+  {
+    "id": 15,
+    "title": "It Won't Be Long",
+    "albumId": 2,
+    "albumTitle": "With the Beatles",
+    "year": "1963",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 133,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 16,
+    "title": "All I've Got to Do",
+    "albumId": 2,
+    "albumTitle": "With the Beatles",
+    "year": "1963",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 122,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 17,
+    "title": "All My Loving",
+    "albumId": 2,
+    "albumTitle": "With the Beatles",
+    "year": "1963",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [
+      "love"
+    ],
+    "length": 127,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": 45,
+    "usChartWeeks": 6
+  },
+  {
+    "id": 18,
+    "title": "Don't Bother Me",
+    "albumId": 2,
+    "albumTitle": "With the Beatles",
+    "year": "1963",
+    "vocalsLead": [
+      "George Harrison"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 148,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 19,
+    "title": "Little Child",
+    "albumId": 2,
+    "albumTitle": "With the Beatles",
+    "year": "1963",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [
+      "Paul McCartney"
+    ],
+    "theme": [],
+    "length": 106,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 20,
+    "title": "Till There Was You",
+    "albumId": 2,
+    "albumTitle": "With the Beatles",
+    "year": "1963",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 133,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 21,
+    "title": "Please Mr. Postman",
+    "albumId": 2,
+    "albumTitle": "With the Beatles",
+    "year": "1963",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 154,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 22,
+    "title": "Roll Over Beethoven",
+    "albumId": 2,
+    "albumTitle": "With the Beatles",
+    "year": "1963",
+    "vocalsLead": [
+      "George Harrison"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 165,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": 68,
+    "usChartWeeks": 4
+  },
+  {
+    "id": 23,
+    "title": "Hold Me Tight",
+    "albumId": 2,
+    "albumTitle": "With the Beatles",
+    "year": "1963",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 151,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 24,
+    "title": "You Really Got a Hold on Me",
+    "albumId": 2,
+    "albumTitle": "With the Beatles",
+    "year": "1963",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [
+      "George Harrison"
+    ],
+    "theme": [],
+    "length": 181,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 25,
+    "title": "I Wanna Be Your Man",
+    "albumId": 2,
+    "albumTitle": "With the Beatles",
+    "year": "1963",
+    "vocalsLead": [
+      "Ringo Starr"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 119,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 26,
+    "title": "Devil In Her Heart",
+    "albumId": 2,
+    "albumTitle": "With the Beatles",
+    "year": "1963",
+    "vocalsLead": [
+      "George Harrison"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 146,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 27,
+    "title": "Not a Second Time",
+    "albumId": 2,
+    "albumTitle": "With the Beatles",
+    "year": "1963",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 126,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 28,
+    "title": "Money (That's What I Want)",
+    "albumId": 2,
+    "albumTitle": "With the Beatles",
+    "year": "1963",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [
+      "money"
+    ],
+    "length": 169,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 29,
+    "title": "A Hard Day's Night",
+    "albumId": 3,
+    "albumTitle": "A Hard Day's Night",
+    "year": "1964",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [
+      "Paul McCartney"
+    ],
+    "theme": [],
+    "length": 154,
+    "ukChartPeak": 1,
+    "ukChartWeeks": 13,
+    "usChartPeak": 1,
+    "usChartWeeks": 13
+  },
+  {
+    "id": 30,
+    "title": "I Should Have Known Better",
+    "albumId": 3,
+    "albumTitle": "A Hard Day's Night",
+    "year": "1964",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 163,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": 53,
+    "usChartWeeks": 4
+  },
+  {
+    "id": 31,
+    "title": "If I Fell",
+    "albumId": 3,
+    "albumTitle": "A Hard Day's Night",
+    "year": "1964",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [
+      "Paul McCartney"
+    ],
+    "theme": [],
+    "length": 139,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": 53,
+    "usChartWeeks": 9
+  },
+  {
+    "id": 32,
+    "title": "I'm Happy Just to Dance with You",
+    "albumId": 3,
+    "albumTitle": "A Hard Day's Night",
+    "year": "1964",
+    "vocalsLead": [
+      "George Harrison"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 116,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": 95,
+    "usChartWeeks": 1
+  },
+  {
+    "id": 33,
+    "title": "And I Love Her",
+    "albumId": 3,
+    "albumTitle": "A Hard Day's Night",
+    "year": "1964",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [
+      "love"
+    ],
+    "length": 149,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": 12,
+    "usChartWeeks": 9
+  },
+  {
+    "id": 34,
+    "title": "Tell Me Why",
+    "albumId": 3,
+    "albumTitle": "A Hard Day's Night",
+    "year": "1964",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 128,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 35,
+    "title": "Can't Buy Me Love",
+    "albumId": 3,
+    "albumTitle": "A Hard Day's Night",
+    "year": "1964",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [
+      "love",
+      "money"
+    ],
+    "length": 131,
+    "ukChartPeak": 1,
+    "ukChartWeeks": 15,
+    "usChartPeak": 1,
+    "usChartWeeks": 10
+  },
+  {
+    "id": 36,
+    "title": "Any Time at All",
+    "albumId": 3,
+    "albumTitle": "A Hard Day's Night",
+    "year": "1964",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [
+      "Paul McCartney"
+    ],
+    "theme": [],
+    "length": 131,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 37,
+    "title": "I'll Cry Instead",
+    "albumId": 3,
+    "albumTitle": "A Hard Day's Night",
+    "year": "1964",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 105,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": 25,
+    "usChartWeeks": 7
+  },
+  {
+    "id": 38,
+    "title": "Things We Said Today",
+    "albumId": 3,
+    "albumTitle": "A Hard Day's Night",
+    "year": "1964",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 155,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 39,
+    "title": "When I Get Home",
+    "albumId": 3,
+    "albumTitle": "A Hard Day's Night",
+    "year": "1964",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 136,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 40,
+    "title": "You Can't Do That",
+    "albumId": 3,
+    "albumTitle": "A Hard Day's Night",
+    "year": "1964",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 154,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": 48,
+    "usChartWeeks": 4
+  },
+  {
+    "id": 41,
+    "title": "I'll Be Back",
+    "albumId": 3,
+    "albumTitle": "A Hard Day's Night",
+    "year": "1964",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [
+      "Paul McCartney"
+    ],
+    "theme": [],
+    "length": 144,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 42,
+    "title": "No Reply",
+    "albumId": 4,
+    "albumTitle": "Beatles for Sale",
+    "year": "1964",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [
+      "Paul McCartney"
+    ],
+    "theme": [],
+    "length": 136,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 43,
+    "title": "I'm a Loser",
+    "albumId": 4,
+    "albumTitle": "Beatles for Sale",
+    "year": "1964",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 150,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 44,
+    "title": "Baby's in Black",
+    "albumId": 4,
+    "albumTitle": "Beatles for Sale",
+    "year": "1964",
+    "vocalsLead": [
+      "John Lennon",
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 124,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 45,
+    "title": "Rock and Roll Music",
+    "albumId": 4,
+    "albumTitle": "Beatles for Sale",
+    "year": "1964",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 151,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 46,
+    "title": "I'll Follow the Sun",
+    "albumId": 4,
+    "albumTitle": "Beatles for Sale",
+    "year": "1964",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 108,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 47,
+    "title": "Mr. Moonlight",
+    "albumId": 4,
+    "albumTitle": "Beatles for Sale",
+    "year": "1964",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 158,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 48,
+    "title": "Kansas City/Hey-Hey-Hey-Hey!",
+    "albumId": 4,
+    "albumTitle": "Beatles for Sale",
+    "year": "1964",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 158,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 49,
+    "title": "Eight Days a Week",
+    "albumId": 4,
+    "albumTitle": "Beatles for Sale",
+    "year": "1964",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 163,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": 1,
+    "usChartWeeks": 10
+  },
+  {
+    "id": 50,
+    "title": "Words of Love",
+    "albumId": 4,
+    "albumTitle": "Beatles for Sale",
+    "year": "1964",
+    "vocalsLead": [
+      "John Lennon",
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [
+      "love"
+    ],
+    "length": 124,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 51,
+    "title": "Honey Don't",
+    "albumId": 4,
+    "albumTitle": "Beatles for Sale",
+    "year": "1964",
+    "vocalsLead": [
+      "Ringo Starr"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 177,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 52,
+    "title": "Every Little Thing",
+    "albumId": 4,
+    "albumTitle": "Beatles for Sale",
+    "year": "1964",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 123,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 53,
+    "title": "I Don't Want to Spoil the Party",
+    "albumId": 4,
+    "albumTitle": "Beatles for Sale",
+    "year": "1964",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [
+      "Paul McCartney"
+    ],
+    "theme": [],
+    "length": 154,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 54,
+    "title": "What You're Doing",
+    "albumId": 4,
+    "albumTitle": "Beatles for Sale",
+    "year": "1964",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 150,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 55,
+    "title": "Everybody's Trying to Be My Baby",
+    "albumId": 4,
+    "albumTitle": "Beatles for Sale",
+    "year": "1964",
+    "vocalsLead": [
+      "George Harrison"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 146,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 56,
+    "title": "Help!",
+    "albumId": 5,
+    "albumTitle": "Help!",
+    "year": "1965",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 139,
+    "ukChartPeak": 1,
+    "ukChartWeeks": 14,
+    "usChartPeak": 1,
+    "usChartWeeks": 13
+  },
+  {
+    "id": 57,
+    "title": "The Night Before",
+    "albumId": 5,
+    "albumTitle": "Help!",
+    "year": "1965",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 154,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 58,
+    "title": "You've Got to Hide Your Love Away",
+    "albumId": 5,
+    "albumTitle": "Help!",
+    "year": "1965",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [
+      "love"
+    ],
+    "length": 129,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 59,
+    "title": "I Need You",
+    "albumId": 5,
+    "albumTitle": "Help!",
+    "year": "1965",
+    "vocalsLead": [
+      "George Harrison"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 148,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 60,
+    "title": "Another Girl",
+    "albumId": 5,
+    "albumTitle": "Help!",
+    "year": "1965",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 125,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 61,
+    "title": "You're Going to Lose That Girl",
+    "albumId": 5,
+    "albumTitle": "Help!",
+    "year": "1965",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 138,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 62,
+    "title": "Ticket to Ride",
+    "albumId": 5,
+    "albumTitle": "Help!",
+    "year": "1965",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [
+      "Paul McCartney"
+    ],
+    "theme": [],
+    "length": 189,
+    "ukChartPeak": 1,
+    "ukChartWeeks": 12,
+    "usChartPeak": 1,
+    "usChartWeeks": 11
+  },
+  {
+    "id": 63,
+    "title": "Act Naturally",
+    "albumId": 5,
+    "albumTitle": "Help!",
+    "year": "1965",
+    "vocalsLead": [
+      "Ringo Starr"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 150,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": 47,
+    "usChartWeeks": 7
+  },
+  {
+    "id": 64,
+    "title": "It's Only Love",
+    "albumId": 5,
+    "albumTitle": "Help!",
+    "year": "1965",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [
+      "love"
+    ],
+    "length": 116,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 65,
+    "title": "You Like Me Too Much",
+    "albumId": 5,
+    "albumTitle": "Help!",
+    "year": "1965",
+    "vocalsLead": [
+      "George Harrison"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 156,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 66,
+    "title": "Tell Me What You See",
+    "albumId": 5,
+    "albumTitle": "Help!",
+    "year": "1965",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [
+      "John Lennon"
+    ],
+    "theme": [],
+    "length": 157,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 67,
+    "title": "I've Just Seen a Face",
+    "albumId": 5,
+    "albumTitle": "Help!",
+    "year": "1965",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 125,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 68,
+    "title": "Yesterday",
+    "albumId": 5,
+    "albumTitle": "Help!",
+    "year": "1965",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 125,
+    "ukChartPeak": 8,
+    "ukChartWeeks": 9,
+    "usChartPeak": 1,
+    "usChartWeeks": 11
+  },
+  {
+    "id": 69,
+    "title": "Dizzy Miss Lizzy",
+    "albumId": 5,
+    "albumTitle": "Help!",
+    "year": "1965",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 176,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 70,
+    "title": "Drive My Car",
+    "albumId": 6,
+    "albumTitle": "Rubber Soul",
+    "year": "1965",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [
+      "John Lennon"
+    ],
+    "theme": [],
+    "length": 148,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 71,
+    "title": "Norwegian Wood (This Bird Has Flown)",
+    "albumId": 6,
+    "albumTitle": "Rubber Soul",
+    "year": "1965",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [
+      "animals"
+    ],
+    "length": 124,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 72,
+    "title": "You Won't See Me",
+    "albumId": 6,
+    "albumTitle": "Rubber Soul",
+    "year": "1965",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 199,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 73,
+    "title": "Nowhere Man",
+    "albumId": 6,
+    "albumTitle": "Rubber Soul",
+    "year": "1965",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 163,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": 3,
+    "usChartWeeks": 9
+  },
+  {
+    "id": 74,
+    "title": "Think for Yourself",
+    "albumId": 6,
+    "albumTitle": "Rubber Soul",
+    "year": "1965",
+    "vocalsLead": [
+      "George Harrison"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 138,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 75,
+    "title": "The Word",
+    "albumId": 6,
+    "albumTitle": "Rubber Soul",
+    "year": "1965",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 163,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 76,
+    "title": "Michelle",
+    "albumId": 6,
+    "albumTitle": "Rubber Soul",
+    "year": "1965",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 162,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 77,
+    "title": "What Goes On",
+    "albumId": 6,
+    "albumTitle": "Rubber Soul",
+    "year": "1965",
+    "vocalsLead": [
+      "Ringo Starr"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 168,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": 81,
+    "usChartWeeks": 2
+  },
+  {
+    "id": 78,
+    "title": "Girl",
+    "albumId": 6,
+    "albumTitle": "Rubber Soul",
+    "year": "1965",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 151,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 79,
+    "title": "I'm Looking Through You",
+    "albumId": 6,
+    "albumTitle": "Rubber Soul",
+    "year": "1965",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 146,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 80,
+    "title": "In My Life",
+    "albumId": 6,
+    "albumTitle": "Rubber Soul",
+    "year": "1965",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 146,
+    "ukChartPeak": 78,
+    "ukChartWeeks": 1,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 81,
+    "title": "Wait",
+    "albumId": 6,
+    "albumTitle": "Rubber Soul",
+    "year": "1965",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [
+      "John Lennon"
+    ],
+    "theme": [],
+    "length": 134,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 82,
+    "title": "If I Needed Someone",
+    "albumId": 6,
+    "albumTitle": "Rubber Soul",
+    "year": "1965",
+    "vocalsLead": [
+      "George Harrison"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 142,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 83,
+    "title": "Run for Your Life",
+    "albumId": 6,
+    "albumTitle": "Rubber Soul",
+    "year": "1965",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 141,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 84,
+    "title": "Taxman",
+    "albumId": 7,
+    "albumTitle": "Revolver",
+    "year": "1966",
+    "vocalsLead": [
+      "George Harrison"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 158,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 85,
+    "title": "Eleanor Rigby",
+    "albumId": 7,
+    "albumTitle": "Revolver",
+    "year": "1966",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 126,
+    "ukChartPeak": 1,
+    "ukChartWeeks": 13,
+    "usChartPeak": 11,
+    "usChartWeeks": 8
+  },
+  {
+    "id": 86,
+    "title": "I'm Only Sleeping",
+    "albumId": 7,
+    "albumTitle": "Revolver",
+    "year": "1966",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 180,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 87,
+    "title": "Love You To",
+    "albumId": 7,
+    "albumTitle": "Revolver",
+    "year": "1966",
+    "vocalsLead": [
+      "George Harrison"
+    ],
+    "vocalsBackup": [],
+    "theme": [
+      "love"
+    ],
+    "length": 179,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 88,
+    "title": "Here, There and Everywhere",
+    "albumId": 7,
+    "albumTitle": "Revolver",
+    "year": "1966",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 144,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 89,
+    "title": "Yellow Submarine",
+    "albumId": 7,
+    "albumTitle": "Revolver",
+    "year": "1966",
+    "vocalsLead": [
+      "Ringo Starr"
+    ],
+    "vocalsBackup": [],
+    "theme": [
+      "drugs"
+    ],
+    "length": 158,
+    "ukChartPeak": 1,
+    "ukChartWeeks": 13,
+    "usChartPeak": 2,
+    "usChartWeeks": 9
+  },
+  {
+    "id": 90,
+    "title": "She Said She Said",
+    "albumId": 7,
+    "albumTitle": "Revolver",
+    "year": "1966",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 156,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 91,
+    "title": "Good Day Sunshine",
+    "albumId": 7,
+    "albumTitle": "Revolver",
+    "year": "1966",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 129,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 92,
+    "title": "And Your Bird Can Sing",
+    "albumId": 7,
+    "albumTitle": "Revolver",
+    "year": "1966",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [
+      "animals"
+    ],
+    "length": 120,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 93,
+    "title": "For No One",
+    "albumId": 7,
+    "albumTitle": "Revolver",
+    "year": "1966",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 119,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 94,
+    "title": "Doctor Robert",
+    "albumId": 7,
+    "albumTitle": "Revolver",
+    "year": "1966",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [
+      "drugs"
+    ],
+    "length": 134,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 95,
+    "title": "I Want to Tell You",
+    "albumId": 7,
+    "albumTitle": "Revolver",
+    "year": "1966",
+    "vocalsLead": [
+      "George Harrison"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 147,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 96,
+    "title": "Got to Get You into My Life",
+    "albumId": 7,
+    "albumTitle": "Revolver",
+    "year": "1966",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 149,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": 7,
+    "usChartWeeks": 16
+  },
+  {
+    "id": 97,
+    "title": "Tomorrow Never Knows",
+    "albumId": 7,
+    "albumTitle": "Revolver",
+    "year": "1966",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 179,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 98,
+    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+    "albumId": 8,
+    "albumTitle": "Sgt. Pepper's Lonely Hearts Club Band",
+    "year": "1967",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 122,
+    "ukChartPeak": 63,
+    "ukChartWeeks": 3,
+    "usChartPeak": 71,
+    "usChartWeeks": 7
+  },
+  {
+    "id": 99,
+    "title": "With a Little Help from My Friends",
+    "albumId": 8,
+    "albumTitle": "Sgt. Pepper's Lonely Hearts Club Band",
+    "year": "1967",
+    "vocalsLead": [
+      "Ringo Starr"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 164,
+    "ukChartPeak": 63,
+    "ukChartWeeks": 3,
+    "usChartPeak": 71,
+    "usChartWeeks": 7
+  },
+  {
+    "id": 100,
+    "title": "Lucy in the Sky with Diamonds",
+    "albumId": 8,
+    "albumTitle": "Sgt. Pepper's Lonely Hearts Club Band",
+    "year": "1967",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [
+      "drugs"
+    ],
+    "length": 208,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 101,
+    "title": "Getting Better",
+    "albumId": 8,
+    "albumTitle": "Sgt. Pepper's Lonely Hearts Club Band",
+    "year": "1967",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 168,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 102,
+    "title": "Fixing a Hole",
+    "albumId": 8,
+    "albumTitle": "Sgt. Pepper's Lonely Hearts Club Band",
+    "year": "1967",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 156,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 103,
+    "title": "She's Leaving Home",
+    "albumId": 8,
+    "albumTitle": "Sgt. Pepper's Lonely Hearts Club Band",
+    "year": "1967",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [
+      "John Lennon"
+    ],
+    "theme": [],
+    "length": 215,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 104,
+    "title": "Being for the Benefit of Mr. Kite!",
+    "albumId": 8,
+    "albumTitle": "Sgt. Pepper's Lonely Hearts Club Band",
+    "year": "1967",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [
+      "animals"
+    ],
+    "length": 157,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 105,
+    "title": "Within You Without You",
+    "albumId": 8,
+    "albumTitle": "Sgt. Pepper's Lonely Hearts Club Band",
+    "year": "1967",
+    "vocalsLead": [
+      "George Harrison"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 304,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 106,
+    "title": "When I'm Sixty-Four",
+    "albumId": 8,
+    "albumTitle": "Sgt. Pepper's Lonely Hearts Club Band",
+    "year": "1967",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 157,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 107,
+    "title": "Lovely Rita",
+    "albumId": 8,
+    "albumTitle": "Sgt. Pepper's Lonely Hearts Club Band",
+    "year": "1967",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [
+      "love"
+    ],
+    "length": 162,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 108,
+    "title": "Good Morning Good Morning",
+    "albumId": 8,
+    "albumTitle": "Sgt. Pepper's Lonely Hearts Club Band",
+    "year": "1967",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [
+      "animals"
+    ],
+    "length": 161,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 109,
+    "title": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
+    "albumId": 8,
+    "albumTitle": "Sgt. Pepper's Lonely Hearts Club Band",
+    "year": "1967",
+    "vocalsLead": [
+      "John Lennon",
+      "Paul McCartney",
+      "George Harrison",
+      "Ringo Starr"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 79,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 110,
+    "title": "A Day in the Life",
+    "albumId": 8,
+    "albumTitle": "Sgt. Pepper's Lonely Hearts Club Band",
+    "year": "1967",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [
+      "Paul McCartney"
+    ],
+    "theme": [],
+    "length": 337,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 111,
+    "title": "Magical Mystery Tour",
+    "albumId": 9,
+    "albumTitle": "Magical Mystery Tour",
+    "year": "1967",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [
+      "John Lennon"
+    ],
+    "theme": [
+      "drugs"
+    ],
+    "length": 170,
+    "ukChartPeak": 2,
+    "ukChartWeeks": 12,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 112,
+    "title": "The Fool on the Hill",
+    "albumId": 9,
+    "albumTitle": "Magical Mystery Tour",
+    "year": "1967",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 179,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 113,
+    "title": "Flying",
+    "albumId": 9,
+    "albumTitle": "Magical Mystery Tour",
+    "year": "1967",
+    "vocalsLead": [],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 135,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 114,
+    "title": "Blue Jay Way",
+    "albumId": 9,
+    "albumTitle": "Magical Mystery Tour",
+    "year": "1967",
+    "vocalsLead": [
+      "George Harrison"
+    ],
+    "vocalsBackup": [],
+    "theme": [
+      "animals"
+    ],
+    "length": 235,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 115,
+    "title": "Your Mother Should Know",
+    "albumId": 9,
+    "albumTitle": "Magical Mystery Tour",
+    "year": "1967",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 148,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 116,
+    "title": "I Am the Walrus",
+    "albumId": 9,
+    "albumTitle": "Magical Mystery Tour",
+    "year": "1967",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [
+      "animals"
+    ],
+    "length": 275,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": 56,
+    "usChartWeeks": 4
+  },
+  {
+    "id": 117,
+    "title": "Hello, Goodbye",
+    "albumId": 9,
+    "albumTitle": "Magical Mystery Tour",
+    "year": "1967",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 208,
+    "ukChartPeak": 1,
+    "ukChartWeeks": 12,
+    "usChartPeak": 1,
+    "usChartWeeks": 11
+  },
+  {
+    "id": 118,
+    "title": "Strawberry Fields Forever",
+    "albumId": 9,
+    "albumTitle": "Magical Mystery Tour",
+    "year": "1967",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 247,
+    "ukChartPeak": 2,
+    "ukChartWeeks": 11,
+    "usChartPeak": 8,
+    "usChartWeeks": 9
+  },
+  {
+    "id": 119,
+    "title": "Penny Lane",
+    "albumId": 9,
+    "albumTitle": "Magical Mystery Tour",
+    "year": "1967",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 180,
+    "ukChartPeak": 2,
+    "ukChartWeeks": 11,
+    "usChartPeak": 1,
+    "usChartWeeks": 10
+  },
+  {
+    "id": 120,
+    "title": "Baby, You're a Rich Man",
+    "albumId": 9,
+    "albumTitle": "Magical Mystery Tour",
+    "year": "1967",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [
+      "money"
+    ],
+    "length": 181,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": 34,
+    "usChartWeeks": 5
+  },
+  {
+    "id": 121,
+    "title": "All You Need Is Love",
+    "albumId": 9,
+    "albumTitle": "Magical Mystery Tour",
+    "year": "1967",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [
+      "love"
+    ],
+    "length": 230,
+    "ukChartPeak": 1,
+    "ukChartWeeks": 13,
+    "usChartPeak": 1,
+    "usChartWeeks": 11
+  },
+  {
+    "id": 122,
+    "title": "Back in the U.S.S.R.",
+    "albumId": 10,
+    "albumTitle": "The White Album",
+    "year": "1968",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 163,
+    "ukChartPeak": 19,
+    "ukChartWeeks": 6,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 123,
+    "title": "Dear Prudence",
+    "albumId": 10,
+    "albumTitle": "The White Album",
+    "year": "1968",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 235,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 124,
+    "title": "Glass Onion",
+    "albumId": 10,
+    "albumTitle": "The White Album",
+    "year": "1968",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 137,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 125,
+    "title": "Ob-La-Di, Ob-La-Da",
+    "albumId": 10,
+    "albumTitle": "The White Album",
+    "year": "1968",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 188,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": 49,
+    "usChartWeeks": 7
+  },
+  {
+    "id": 126,
+    "title": "Wild Honey Pie",
+    "albumId": 10,
+    "albumTitle": "The White Album",
+    "year": "1968",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 52,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 127,
+    "title": "The Continuing Story of Bungalow Bill",
+    "albumId": 10,
+    "albumTitle": "The White Album",
+    "year": "1968",
+    "vocalsLead": [
+      "John Lennon",
+      "Yoko Ono"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 194,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 128,
+    "title": "While My Guitar Gently Weeps",
+    "albumId": 10,
+    "albumTitle": "The White Album",
+    "year": "1968",
+    "vocalsLead": [
+      "George Harrison"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 285,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 129,
+    "title": "Happiness Is a Warm Gun",
+    "albumId": 10,
+    "albumTitle": "The White Album",
+    "year": "1968",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [
+      "drugs"
+    ],
+    "length": 164,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 130,
+    "title": "Martha My Dear",
+    "albumId": 10,
+    "albumTitle": "The White Album",
+    "year": "1968",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 148,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 131,
+    "title": "I'm So Tired",
+    "albumId": 10,
+    "albumTitle": "The White Album",
+    "year": "1968",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 123,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 132,
+    "title": "Blackbird",
+    "albumId": 10,
+    "albumTitle": "The White Album",
+    "year": "1968",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [
+      "animals"
+    ],
+    "length": 138,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 133,
+    "title": "Piggies",
+    "albumId": 10,
+    "albumTitle": "The White Album",
+    "year": "1968",
+    "vocalsLead": [
+      "George Harrison"
+    ],
+    "vocalsBackup": [],
+    "theme": [
+      "animals"
+    ],
+    "length": 124,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 134,
+    "title": "Rocky Raccoon",
+    "albumId": 10,
+    "albumTitle": "The White Album",
+    "year": "1968",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [
+      "animals"
+    ],
+    "length": 218,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 135,
+    "title": "Don't Pass Me By",
+    "albumId": 10,
+    "albumTitle": "The White Album",
+    "year": "1968",
+    "vocalsLead": [
+      "Ringo Starr"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 230,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 136,
+    "title": "Why Don't We Do It in the Road?",
+    "albumId": 10,
+    "albumTitle": "The White Album",
+    "year": "1968",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 101,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 137,
+    "title": "I Will",
+    "albumId": 10,
+    "albumTitle": "The White Album",
+    "year": "1968",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 105,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 138,
+    "title": "Julia",
+    "albumId": 10,
+    "albumTitle": "The White Album",
+    "year": "1968",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 176,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 139,
+    "title": "Birthday",
+    "albumId": 10,
+    "albumTitle": "The White Album",
+    "year": "1968",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [
+      "John Lennon"
+    ],
+    "theme": [],
+    "length": 163,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 140,
+    "title": "Yer Blues",
+    "albumId": 10,
+    "albumTitle": "The White Album",
+    "year": "1968",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 240,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 141,
+    "title": "Mother Nature's Son",
+    "albumId": 10,
+    "albumTitle": "The White Album",
+    "year": "1968",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 168,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 142,
+    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+    "albumId": 10,
+    "albumTitle": "The White Album",
+    "year": "1968",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [
+      "animals"
+    ],
+    "length": 144,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 143,
+    "title": "Sexy Sadie",
+    "albumId": 10,
+    "albumTitle": "The White Album",
+    "year": "1968",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 195,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 144,
+    "title": "Helter Skelter",
+    "albumId": 10,
+    "albumTitle": "The White Album",
+    "year": "1968",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 269,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 145,
+    "title": "Long, Long, Long",
+    "albumId": 10,
+    "albumTitle": "The White Album",
+    "year": "1968",
+    "vocalsLead": [
+      "George Harrison"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 186,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 146,
+    "title": "Revolution 1",
+    "albumId": 10,
+    "albumTitle": "The White Album",
+    "year": "1968",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 255,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": 12,
+    "usChartWeeks": 11
+  },
+  {
+    "id": 147,
+    "title": "Honey Pie",
+    "albumId": 10,
+    "albumTitle": "The White Album",
+    "year": "1968",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 161,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 148,
+    "title": "Savoy Truffle",
+    "albumId": 10,
+    "albumTitle": "The White Album",
+    "year": "1968",
+    "vocalsLead": [
+      "George Harrison"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 174,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 149,
+    "title": "Cry Baby Cry",
+    "albumId": 10,
+    "albumTitle": "The White Album",
+    "year": "1968",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [
+      "Paul McCartney"
+    ],
+    "theme": [],
+    "length": 182,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 150,
+    "title": "Revolution 9",
+    "albumId": 10,
+    "albumTitle": "The White Album",
+    "year": "1968",
+    "vocalsLead": [],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 502,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 151,
+    "title": "Good Night",
+    "albumId": 10,
+    "albumTitle": "The White Album",
+    "year": "1968",
+    "vocalsLead": [
+      "Ringo Starr"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 193,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 152,
+    "title": "Yellow Submarine",
+    "albumId": 11,
+    "albumTitle": "Yellow Submarine",
+    "year": "1969",
+    "vocalsLead": [
+      "Ringo Starr"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 159,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 153,
+    "title": "Only a Northern Song",
+    "albumId": 11,
+    "albumTitle": "Yellow Submarine",
+    "year": "1969",
+    "vocalsLead": [
+      "George Harrison"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 204,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 154,
+    "title": "All Together Now",
+    "albumId": 11,
+    "albumTitle": "Yellow Submarine",
+    "year": "1969",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [
+      "John Lennon"
+    ],
+    "theme": [],
+    "length": 130,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 155,
+    "title": "Hey Bulldog",
+    "albumId": 11,
+    "albumTitle": "Yellow Submarine",
+    "year": "1969",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [
+      "Paul McCartney"
+    ],
+    "theme": [
+      "animals"
+    ],
+    "length": 191,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 156,
+    "title": "It's All Too Much",
+    "albumId": 11,
+    "albumTitle": "Yellow Submarine",
+    "year": "1969",
+    "vocalsLead": [
+      "George Harrison"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 385,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 157,
+    "title": "All You Need Is Love",
+    "albumId": 11,
+    "albumTitle": "Yellow Submarine",
+    "year": "1969",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [
+      "love"
+    ],
+    "length": 231,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 158,
+    "title": "Come Together",
+    "albumId": 12,
+    "albumTitle": "Abbey Road",
+    "year": "1969",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 259,
+    "ukChartPeak": 81,
+    "ukChartWeeks": 2,
+    "usChartPeak": 1,
+    "usChartWeeks": 16
+  },
+  {
+    "id": 159,
+    "title": "Something",
+    "albumId": 12,
+    "albumTitle": "Abbey Road",
+    "year": "1969",
+    "vocalsLead": [
+      "George Harrison"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 182,
+    "ukChartPeak": 84,
+    "ukChartWeeks": 1,
+    "usChartPeak": 3,
+    "usChartWeeks": 6
+  },
+  {
+    "id": 160,
+    "title": "Maxwell's Silver Hammer",
+    "albumId": 12,
+    "albumTitle": "Abbey Road",
+    "year": "1969",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 207,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 161,
+    "title": "Oh! Darling",
+    "albumId": 12,
+    "albumTitle": "Abbey Road",
+    "year": "1969",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 207,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 162,
+    "title": "Octopus's Garden",
+    "albumId": 12,
+    "albumTitle": "Abbey Road",
+    "year": "1969",
+    "vocalsLead": [
+      "Ringo Starr"
+    ],
+    "vocalsBackup": [],
+    "theme": [
+      "animals"
+    ],
+    "length": 170,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 163,
+    "title": "I Want You (She's So Heavy)",
+    "albumId": 12,
+    "albumTitle": "Abbey Road",
+    "year": "1969",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 467,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 164,
+    "title": "Here Comes the Sun",
+    "albumId": 12,
+    "albumTitle": "Abbey Road",
+    "year": "1969",
+    "vocalsLead": [
+      "George Harrison"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 185,
+    "ukChartPeak": 58,
+    "ukChartWeeks": 4,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 165,
+    "title": "Because",
+    "albumId": 12,
+    "albumTitle": "Abbey Road",
+    "year": "1969",
+    "vocalsLead": [
+      "John Lennon",
+      "Paul McCartney",
+      "George Harrison"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 165,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 166,
+    "title": "You Never Give Me Your Money",
+    "albumId": 12,
+    "albumTitle": "Abbey Road",
+    "year": "1969",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [
+      "money"
+    ],
+    "length": 242,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 167,
+    "title": "Sun King",
+    "albumId": 12,
+    "albumTitle": "Abbey Road",
+    "year": "1969",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [
+      "Paul McCartney",
+      "George Harrison"
+    ],
+    "theme": [],
+    "length": 146,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 168,
+    "title": "Mean Mr. Mustard",
+    "albumId": 12,
+    "albumTitle": "Abbey Road",
+    "year": "1969",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 66,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 169,
+    "title": "Polythene Pam",
+    "albumId": 12,
+    "albumTitle": "Abbey Road",
+    "year": "1969",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 72,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 170,
+    "title": "She Came In Through the Bathroom Window",
+    "albumId": 12,
+    "albumTitle": "Abbey Road",
+    "year": "1969",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 118,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 171,
+    "title": "Golden Slumbers",
+    "albumId": 12,
+    "albumTitle": "Abbey Road",
+    "year": "1969",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 91,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 172,
+    "title": "Carry That Weight",
+    "albumId": 12,
+    "albumTitle": "Abbey Road",
+    "year": "1969",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [
+      "John Lennon",
+      "George Harrison",
+      "Ringo Starr"
+    ],
+    "theme": [],
+    "length": 96,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 173,
+    "title": "The End",
+    "albumId": 12,
+    "albumTitle": "Abbey Road",
+    "year": "1969",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [
+      "love"
+    ],
+    "length": 141,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 174,
+    "title": "Her Majesty",
+    "albumId": 12,
+    "albumTitle": "Abbey Road",
+    "year": "1969",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 25,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 175,
+    "title": "Two of Us",
+    "albumId": 13,
+    "albumTitle": "Let It Be",
+    "year": "1970",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [
+      "John Lennon"
+    ],
+    "theme": [],
+    "length": 216,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 176,
+    "title": "Dig a Pony",
+    "albumId": 13,
+    "albumTitle": "Let It Be",
+    "year": "1970",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [
+      "animals"
+    ],
+    "length": 235,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 177,
+    "title": "Across the Universe",
+    "albumId": 13,
+    "albumTitle": "Let It Be",
+    "year": "1970",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 228,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 178,
+    "title": "I Me Mine",
+    "albumId": 13,
+    "albumTitle": "Let It Be",
+    "year": "1970",
+    "vocalsLead": [
+      "George Harrison"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 145,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 179,
+    "title": "Dig It",
+    "albumId": 13,
+    "albumTitle": "Let It Be",
+    "year": "1970",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 50,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 180,
+    "title": "Let It Be",
+    "albumId": 13,
+    "albumTitle": "Let It Be",
+    "year": "1970",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 243,
+    "ukChartPeak": 2,
+    "ukChartWeeks": 17,
+    "usChartPeak": 1,
+    "usChartWeeks": 14
+  },
+  {
+    "id": 181,
+    "title": "Maggie Mae",
+    "albumId": 13,
+    "albumTitle": "Let It Be",
+    "year": "1970",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [
+      "Paul McCartney"
+    ],
+    "theme": [],
+    "length": 40,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 182,
+    "title": "I've Got a Feeling",
+    "albumId": 13,
+    "albumTitle": "Let It Be",
+    "year": "1970",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [
+      "John Lennon"
+    ],
+    "theme": [],
+    "length": 217,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 183,
+    "title": "One After 909",
+    "albumId": 13,
+    "albumTitle": "Let It Be",
+    "year": "1970",
+    "vocalsLead": [
+      "John Lennon"
+    ],
+    "vocalsBackup": [
+      "Paul McCartney"
+    ],
+    "theme": [],
+    "length": 173,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 184,
+    "title": "The Long and Winding Road",
+    "albumId": 13,
+    "albumTitle": "Let It Be",
+    "year": "1970",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 218,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": 1,
+    "usChartWeeks": 10
+  },
+  {
+    "id": 185,
+    "title": "For You Blue",
+    "albumId": 13,
+    "albumTitle": "Let It Be",
+    "year": "1970",
+    "vocalsLead": [
+      "George Harrison"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 152,
+    "ukChartPeak": null,
+    "ukChartWeeks": null,
+    "usChartPeak": null,
+    "usChartWeeks": null
+  },
+  {
+    "id": 186,
+    "title": "Get Back",
+    "albumId": 13,
+    "albumTitle": "Let It Be",
+    "year": "1970",
+    "vocalsLead": [
+      "Paul McCartney"
+    ],
+    "vocalsBackup": [],
+    "theme": [],
+    "length": 189,
+    "ukChartPeak": 1,
+    "ukChartWeeks": 17,
+    "usChartPeak": 1,
+    "usChartWeeks": 12
+  }
+]
